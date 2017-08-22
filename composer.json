@@ -1,0 +1,18 @@
+{
+    "name": "alissonphp/resume-bank",
+    "description": "Manage your resume database in a simplified way",
+    "license": "GLP",
+    "authors": [
+        {
+            "name": "Alisson Gomes",
+            "email": "alisson.php@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ]
+    }
+}
